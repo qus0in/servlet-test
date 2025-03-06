@@ -1,14 +1,10 @@
-package service.search;
+package org.example.servlettest;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import io.github.cdimascio.dotenv.Dotenv;
-import model.dto.APIClientParam;
-import model.dto.NaverAPIResult;
-import model.dto.NaverAPIResultItem;
+
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import util.api.APIClient;
-import util.logger.MyLogger;
 
 import java.io.IOException;
 import java.util.HashMap;

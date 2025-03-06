@@ -1,8 +1,6 @@
-package util.api;
+package org.example.servlettest;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import model.dto.APIClientParam;
-import util.logger.MyLogger;
 
 import java.io.IOException;
 import java.net.URI;

@@ -1,4 +1,4 @@
-package model.dto;
+package org.example.servlettest;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 

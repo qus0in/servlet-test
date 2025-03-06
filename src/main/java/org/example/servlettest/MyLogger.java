@@ -1,4 +1,4 @@
-package util.logger;
+package org.example.servlettest;
 
 import io.github.cdimascio.dotenv.Dotenv;
 
